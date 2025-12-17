@@ -1,0 +1,35 @@
+input {
+  padding: 10px 0px 10px 15px;
+  width: 180px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.email {
+  display: block;
+  margin-top: 10px;
+  width: 380px;
+}
+button {
+  display: block;
+  margin-top: 10px;
+  width: 396px;
+  height: 50px;
+  background-color: rgb(17, 140, 255);
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  transition: background-color 0.15s;
+}
+
+button:hover {
+  background-color: rgb(17, 140, 255);
+  opacity: 0.7;  
+}
+
+button:active {
+  background-color: rgb(17, 140, 255);
+  opacity: 0.5;  
+}

@@ -1,0 +1,8 @@
+.seach-bar {
+  padding: 10px;
+  width: 500px;
+  height: 20px;
+  border-radius: 20px;
+  border: none;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+}

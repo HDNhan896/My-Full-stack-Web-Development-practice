@@ -1,0 +1,101 @@
+div {
+  margin: 15px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+}
+
+img {
+  width: auto;
+  height: 100px;
+}
+
+.tweet {
+  height: 200px;
+  padding: 10px;
+  border-radius: 10px;
+  width: fit-content;
+  height: fit-content;
+}
+
+.google-logo, .status, .tweet-button {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.google-logo {
+  border-radius: 50px;
+  width: 100px;
+}
+
+.status {
+  margin-left: 20px ;
+  width: 500px;
+  font-size: 25px;
+  border: none;
+}
+
+.tweet-button {
+  color: white;
+  background-color: rgb(0, 153, 255);
+  border: none;
+  border-radius: 25px;
+  height: 50px;
+  width: 100px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.friend-suggestion {
+  width: 300px;
+  height: 500px;
+  width: fit-content;
+  height: fit-content;
+}
+
+.friend-img {
+  height: auto;
+  width: 100%;
+}
+
+.name, .mutual-friend, .add-button {
+  font-family: Roboto;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.mutual-friend {
+  color: gray;
+}
+
+.add-button {
+  background-color: rgb(0, 132, 255);
+  border: none;
+  border-radius: 5px;
+  width: 100px;
+  height: 40px;
+  font-size: 15px;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.list-friend-suggestion {
+  width: max-content;
+  padding-right: 20px;
+  
+}
+
+.friend-1, .friend-2, .friend-3 {
+  width: max-content;
+  display: inline-block;
+  margin-right: 0px;
+}
+
+.friend-img-1, .friend-img-2, .friend-img-3 {
+  height: 150px;
+  width: auto;
+}

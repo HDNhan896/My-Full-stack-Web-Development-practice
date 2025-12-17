@@ -1,0 +1,25 @@
+.mouse {
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  vertical-align: middle;
+  
+}
+
+.search {
+  vertical-align: middle;
+  border: none;
+  width: 200px;
+}
+
+.button {
+  vertical-align: middle;
+  border-radius: 25px;
+  border: none;
+  height: 25px;
+  width: 65px;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(84, 175, 250);
+}

@@ -1,0 +1,46 @@
+p {
+  font-family: Roboto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.email {
+  color: gray;
+}
+
+input {
+  margin-top: 5px;
+  height: 20px;
+  width: 380px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 3px;
+  border-width: 1px;
+}
+
+.description {
+  color: gray;
+  margin-top: 15px;
+}
+
+button {
+  margin-top: 10px;
+  width: 380px ;
+  height: 50px;
+  border-radius: 25px;
+  border: none;
+  background-color: #6666fc;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.15s,
+    opacity 0.15s;
+}
+
+button:hover {
+  background-color: #5050c4;
+}
+
+button:active {
+  background-color: #5050c4;
+  opacity: 0.7;
+}

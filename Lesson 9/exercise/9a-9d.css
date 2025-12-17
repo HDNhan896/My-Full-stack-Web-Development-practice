@@ -1,0 +1,49 @@
+.red-square {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+
+.green-circle {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
+div {
+  display: inline-block;
+  margin: 10px;
+}
+
+.service, .music {
+  display: block;
+  padding: 10px;
+}
+
+.service {
+  width: 300px;
+  height: 80px;
+  /* border: 2px solid black; */
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+}
+
+.music {
+  width: 350px;
+  font-family: Roboto;
+  background-color: rgba(0, 0, 0, 0.822);
+  color: white;
+}
+
+.install-title {
+  font-size: 25px;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.description-youtube {
+  color: rgb(151, 151, 151);
+  font-size: 15px;
+}

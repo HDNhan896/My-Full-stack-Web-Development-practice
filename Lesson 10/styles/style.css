@@ -1,0 +1,49 @@
+img {
+  width: 100%;
+}
+
+.thumbnail, .video-info-grid {
+  width: 300px;
+}
+
+.author-picture {
+  margin-top: 15px;
+  display: inline-block;
+  height: 45px;
+  vertical-align: top;
+}
+
+.status {
+  font-family: Roboto;
+  margin-top: 15px;
+  padding-left: 15px;
+  display: inline-block;
+  height: 150px;
+  width: 240px;
+}
+
+.video-title {
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 20px;
+}
+
+.author-name, .video-status {
+  font-size: 15px;
+}
+
+.author-name{
+  margin-top: 15px;
+  color: gray;
+}
+
+.video-status {
+  color: gray;
+}
+
+.author-channel {
+  border-radius: 100px;
+  width: 45px;
+}
+
+

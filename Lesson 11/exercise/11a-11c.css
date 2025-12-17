@@ -1,0 +1,39 @@
+.a11-2 {
+  background-color: lightpink;
+}
+
+.a11-1 {
+  background-color: lightblue;
+}
+
+.a11-grid {
+  display: grid;
+  grid-template-columns: 200px 75px;  
+}
+
+.b11-grid {
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: 50px 1fr 75px;
+}
+
+.b11-2 {
+  background-color: lightpink;
+}
+
+.b11-1, .b11-3 {
+  background-color: lightblue;
+}
+
+
+.c11-grid {
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 10px;
+}
+
+.c11-1, .c11-2, .c11-3, .c11-4, .c11-5, .c11-6, .c11-7, .c11-8 {
+  background-color: lightpink;
+}
